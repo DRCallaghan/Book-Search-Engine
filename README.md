@@ -23,12 +23,12 @@
   There is no installation for this project as it is a deployed web app. If you wish to install the source code directly, simply clone this repo and run `npm run install` to install dependencies.
 
   ## Usage:
-   
+  First, either log in or sign up. After searching for a book, you should be presented with [information about your search](https://puu.sh/JjGl1/fd3de1224d.png). From there, you can save books to your profile and delete them from your profile as needed.
 
   ## Outside Resources
   There were no collaborators on this project. My information can be found in Additional Info.
-  
-  
+
+
 
   ## Contribution
   There are no guidelines for contribution as this project is closed.
